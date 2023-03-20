@@ -1,7 +1,7 @@
 # git_test
 
 #### 介绍
-kanle burubukan a aa 
+仅作为自己使用玩闹
 
 
 #### 软件架构
